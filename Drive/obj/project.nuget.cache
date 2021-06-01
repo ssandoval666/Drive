@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "z7Wad3BDAgrUXivrt7tRGB5zzF2cHOInIQZiFwB3jUPsjc8GtuQqDGzlCiJwfw5XvJ0sHcjgC3itnS1LQ7dBeA==",
+  "success": true,
+  "projectFilePath": "C:\\Desarrollo\\2021\\Drive\\Drive\\Drive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastian Sandoval\\.nuget\\packages\\google.apis\\1.51.0\\google.apis.1.51.0.nupkg.sha512",
+    "C:\\Users\\Sebastian Sandoval\\.nuget\\packages\\google.apis.auth\\1.51.0\\google.apis.auth.1.51.0.nupkg.sha512",
+    "C:\\Users\\Sebastian Sandoval\\.nuget\\packages\\google.apis.core\\1.51.0\\google.apis.core.1.51.0.nupkg.sha512",
+    "C:\\Users\\Sebastian Sandoval\\.nuget\\packages\\google.apis.drive.v3\\1.51.0.2300\\google.apis.drive.v3.1.51.0.2300.nupkg.sha512",
+    "C:\\Users\\Sebastian Sandoval\\.nuget\\packages\\microsoft.identity.client\\4.31.0\\microsoft.identity.client.4.31.0.nupkg.sha512",
+    "C:\\Users\\Sebastian Sandoval\\.nuget\\packages\\mimemapping\\1.0.1.37\\mimemapping.1.0.1.37.nupkg.sha512",
+    "C:\\Users\\Sebastian Sandoval\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
